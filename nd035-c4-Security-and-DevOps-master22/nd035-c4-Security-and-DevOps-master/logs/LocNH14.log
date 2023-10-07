@@ -1,0 +1,5 @@
+2023-10-06 22:46:06,692 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on LAPTOP-MKIP3P6F with PID 6656 (C:\Users\ACER\Desktop\nd035-c4-Security-and-DevOps-master\nd035-c4-Security-and-DevOps-master\starter_code\target\classes started by ACER in C:\Users\ACER\Desktop\nd035-c4-Security-and-DevOps-master\nd035-c4-Security-and-DevOps-master)
+2023-10-06 22:46:06,700 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-10-06 22:46:06,700 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-10-06 22:46:09,850 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-10-06 22:46:10,625 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.286 seconds (JVM running for 5.3)

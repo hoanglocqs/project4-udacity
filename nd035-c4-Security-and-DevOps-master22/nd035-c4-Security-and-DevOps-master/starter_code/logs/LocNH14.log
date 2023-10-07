@@ -1,0 +1,25 @@
+2023-10-06 23:22:56,178 INFO c.e.d.c.UserController [main] User By Username LocNH14
+2023-10-06 23:22:56,204 INFO c.e.d.c.UserController [main] Not Found User By Username LocNH14
+2023-10-06 23:22:56,206 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:22:56,208 INFO c.e.d.c.UserController [main] User By id: 1
+2023-10-06 23:22:56,213 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:23:28,936 INFO c.e.d.c.UserController [main] User By Username LocNH14
+2023-10-06 23:23:28,962 INFO c.e.d.c.UserController [main] Not Found User By Username LocNH14
+2023-10-06 23:23:28,965 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:23:28,967 INFO c.e.d.c.UserController [main] User By id: 1
+2023-10-06 23:23:28,969 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:23:33,049 INFO c.e.d.c.UserController [main] User By Username LocNH14
+2023-10-06 23:23:33,078 INFO c.e.d.c.UserController [main] Not Found User By Username LocNH14
+2023-10-06 23:23:33,080 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:23:33,083 INFO c.e.d.c.UserController [main] User By id: 1
+2023-10-06 23:23:33,086 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:23:51,370 INFO c.e.d.c.UserController [main] User By Username LocNH14
+2023-10-06 23:23:51,398 INFO c.e.d.c.UserController [main] Not Found User By Username LocNH14
+2023-10-06 23:23:51,401 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:23:51,403 INFO c.e.d.c.UserController [main] User By id: 1
+2023-10-06 23:23:51,404 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:24:01,526 INFO c.e.d.c.UserController [main] User By Username LocNH14
+2023-10-06 23:24:01,552 INFO c.e.d.c.UserController [main] Not Found User By Username LocNH14
+2023-10-06 23:24:01,554 ERROR c.e.d.c.UserController [main] Create user fail
+2023-10-06 23:24:01,557 INFO c.e.d.c.UserController [main] User By id: 1
+2023-10-06 23:24:01,560 ERROR c.e.d.c.UserController [main] Create user fail
